@@ -1,7 +1,6 @@
 package com.fifu.core.packageandimport.documents;
 
 import com.fifu.core.packageandimport.photos.*; //implicit import
-import com.fifu.core.packageandimport.workallstatte.PAN; //explicit import
 import com.fifu.core.packageandimport.workallstatte.OfferLetter2; //explicit import
 
 public class AdharCard {
