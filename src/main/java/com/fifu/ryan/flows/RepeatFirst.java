@@ -1,4 +1,4 @@
-package com.fifu.demo;
+package com.fifu.ryan.flows;
 
 public class RepeatFirst {
     public static void main(String[] args) {

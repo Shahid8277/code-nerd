@@ -10,7 +10,7 @@ public class Father extends Object {
         System.out.println("Parents power");
     }
 
-    public String relatives(){
+    protected String relatives(){
         return "relations";
     }
 }
