@@ -1,4 +1,4 @@
-package com.fifu.minicourse.core.dsa.binarysearch;
+package com.fifu.ryan.dsa.binarysearch;
 
 public class FifiBinarySearch {
     public static void main(String[] args) {

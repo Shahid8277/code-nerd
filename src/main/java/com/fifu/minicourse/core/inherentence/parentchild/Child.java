@@ -6,6 +6,6 @@ public class Child extends Father {
 
     public static void main(String[] args) {
         Child c1 = new Child();
-        System.out.println(c1.noOfSite);
+        System.out.println(c1.relatives());
     }
 }

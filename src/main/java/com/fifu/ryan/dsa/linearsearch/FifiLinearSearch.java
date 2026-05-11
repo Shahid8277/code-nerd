@@ -1,4 +1,4 @@
-package com.fifu.minicourse.core.dsa.linearsearch;
+package com.fifu.ryan.dsa.linearsearch;
 
 public class FifiLinearSearch {
 
