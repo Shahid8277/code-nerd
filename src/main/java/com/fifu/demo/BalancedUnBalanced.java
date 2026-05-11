@@ -2,7 +2,7 @@ package com.fifu.demo;
 
 import java.util.Stack;
 
-public class Fifu {
+public class BalancedUnBalanced {
 
     static boolean isBalanced(String s) {
 
